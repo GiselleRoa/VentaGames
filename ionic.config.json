@@ -1,0 +1,7 @@
+{
+  "name": "VentaGames",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
